@@ -156,10 +156,17 @@ alone            0
 dtype: int64
 
 <Figure size 500x500 with 1 Axes><img width="454" height="470" alt="image" src="https://github.com/user-attachments/assets/4b4a063e-efa7-4186-84bb-bf9c31dbf494" />
+ 
 <Figure size 500x500 with 1 Axes><img width="463" height="470" alt="image" src="https://github.com/user-attachments/assets/9020a8bf-cc07-4686-a9a5-2d2ef685d625" />
+
 <Figure size 500x500 with 1 Axes><img width="463" height="470" alt="image" src="https://github.com/user-attachments/assets/c74d1488-b28f-43bf-86ce-c1f81b55f4bf" />
+ 
 <Figure size 800x600 with 2 Axes><img width="637" height="528" alt="image" src="https://github.com/user-attachments/assets/9ab1d489-4251-4a33-8efc-84e92e526a56" />
-Summary of Titanic dataset
+
+ 
+ 
+ 
+ Summary of Titanic dataset
          survived      pclass         age       sibsp       parch        fare
 count  891.000000  891.000000  714.000000  891.000000  891.000000  891.000000
 mean     0.383838    2.308642   29.699118    0.523008    0.381594   32.204208
