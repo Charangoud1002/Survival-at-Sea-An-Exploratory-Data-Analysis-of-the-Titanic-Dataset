@@ -1,4 +1,4 @@
-<img width="637" height="528" alt="image" src="https://github.com/user-attachments/assets/f3f210e6-55ea-4186-923b-433967da2c79" /># Survival-at-Sea-An-Exploratory-Data-Analysis-of-the-Titanic-Dataset
+Survival-at-Sea-An-Exploratory-Data-Analysis-of-the-Titanic-Dataset
 Survival at Sea: An Exploratory Data Analysis of the Titanic Dataset I have Done this task by using the tools Python (Pandas, Matplotlib, Seaborn)
 
 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
